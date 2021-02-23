@@ -83,3 +83,10 @@ a {
 	margin-right: auto;
 	display: block;
 }
+.audio {
+	border: 2px solid black;
+	float: left;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #36393F;
+}
