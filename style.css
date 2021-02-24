@@ -90,3 +90,11 @@ a {
 	padding-right: 10px;
 	background-color: #36393F;
 }
+#quote{
+	border-left: 2px solid #36393F;
+	border-right: 2px solid #36393F;
+}
+.quote-sign {
+	border: 0px solid gray;
+	text-align: right;
+}
